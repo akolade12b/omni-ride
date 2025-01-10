@@ -66,7 +66,7 @@ Feel free to reach out if you have questions or want to collaborate!
   <!-- Portfolio -->
   <a href="https://hackolade-portfolio-hackolades-projects.vercel.app/" target="_blank">
     <img 
-      src="https://img.icons8.com/color/96/000000/domain.png" 
+      src="https://img.icons8.com/?size=100&id=111593&format=png&color=000000" 
       alt="Portfolio" 
       style="margin-right: 20px; width: 48px; height: 48px;" />
   </a>
@@ -74,7 +74,7 @@ Feel free to reach out if you have questions or want to collaborate!
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ajibola-akolade-967035335/" target="_blank">
     <img 
-      src="https://img.icons8.com/color/96/000000/linkedin.png" 
+      src="https://img.icons8.com/?size=100&id=8808&format=png&color=000000" 
       alt="LinkedIn" 
       style="width: 48px; height: 48px;" />
   </a>
