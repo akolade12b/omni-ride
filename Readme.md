@@ -27,27 +27,7 @@ Welcome to **Omni Ride**! 🚗💨 This sleek and beautiful frontend is crafted 
 
 ---
 
-## How to Run Locally 🖥️
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/omni-ride.git
-   ```
-2. Navigate to the project directory:  
-   ```bash
-   cd omni-ride
-   ```
-3. Install dependencies:  
-   ```bash
-   npm install
-   ```
-4. Start the development server:  
-   ```bash
-   npm run dev
-   ```
-5. Open your browser and navigate to `http://localhost:3000` to view Omni Ride.  
-
----
 
 ## Future Enhancements 🚀
 
@@ -66,7 +46,7 @@ Feel free to reach out if you have questions or want to collaborate!
   <!-- Portfolio -->
   <a href="https://hackolade-portfolio-hackolades-projects.vercel.app/" target="_blank">
     <img 
-      src="https://img.icons8.com/?size=100&id=111593&format=png&color=000000" 
+      src="https://img.icons8.com/color/96/000000/domain.png" 
       alt="Portfolio" 
       style="margin-right: 20px; width: 48px; height: 48px;" />
   </a>
@@ -74,7 +54,7 @@ Feel free to reach out if you have questions or want to collaborate!
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ajibola-akolade-967035335/" target="_blank">
     <img 
-      src="https://img.icons8.com/?size=100&id=8808&format=png&color=000000" 
+      src="https://img.icons8.com/color/96/000000/linkedin.png" 
       alt="LinkedIn" 
       style="width: 48px; height: 48px;" />
   </a>
