@@ -50,7 +50,7 @@ Feel free to reach out if you have questions or want to collaborate!
       alt="Portfolio" 
       style="margin-right: 20px; width: 48px; height: 48px;" />
   </a>
-
+<br>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ajibola-akolade-967035335/" target="_blank">
     <img 
