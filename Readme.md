@@ -60,7 +60,7 @@ Feel free to reach out if you have questions or want to collaborate!
   </a>
 </div>
 
-- **Phone**: [+234 9123663660](tel:+2349123663660)  
+**Phone**: [+234 9123663660](tel:+2349123663660)  
 
 ---
 
